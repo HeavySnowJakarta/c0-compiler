@@ -37,8 +37,8 @@ rebuild: clean all
 
 # 运行测试
 test: $(TARGET)
-	@echo "运行词法分析测试..."
-	./$(TARGET) -l test_input.c
+	@echo "运行综合测试..."
+	@./run_all_tests.sh
 
 # 显示NFA
 show-nfa: $(TARGET)

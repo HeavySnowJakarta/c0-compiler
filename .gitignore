@@ -58,3 +58,4 @@ dkms.conf
 c0compiler
 _codeql_detected_source_root
 demo.sh
+run_all_tests.sh
