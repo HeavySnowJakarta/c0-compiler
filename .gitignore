@@ -60,3 +60,6 @@ _codeql_detected_source_root
 demo.sh
 run_all_tests.sh
 TEST_SUMMARY.txt
+
+# Clustering experiment output files (content included in report)
+*_output.txt
