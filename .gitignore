@@ -63,3 +63,7 @@ TEST_SUMMARY.txt
 
 # Clustering experiment output files (content included in report)
 *_output.txt
+
+# Python cache
+__pycache__/
+*.pyc
